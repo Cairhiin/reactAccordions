@@ -1,0 +1,8 @@
+section {
+  padding-inline: min(6vw, 6rem);
+  padding-block: 2rem;
+}
+
+#accordion-1 {
+  background: hsl(210, 5%, 7%);
+}
